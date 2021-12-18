@@ -1,0 +1,15 @@
+{
+  "name": "DJS-Template",
+  "version": "1.0.0",
+  "description": "Good template for developing your discord bot :p",
+  "main": "src/bot.js",
+  "scripts": {
+  "run": "node ."
+  },
+  "keywords": [],
+  "author": "mxnty999",
+  "license": " ",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
