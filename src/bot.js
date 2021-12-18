@@ -9,11 +9,11 @@ const client = new Client({
 
 client.on('ready', () => {
 const statuses = [
-  `You can change these in bot.js`,
-  `hello`,
-  `how is your day`,
-  `yes`,
-  `thank you for using my template`
+  ``,
+  ``,
+  ``,
+  ``,
+  ``
 ];
 
 let i = 0;
